@@ -33,6 +33,7 @@ Cosmic Shooter
   **How to Run**
 
   pip install pygame
+  
   python main.py
 
   ---
