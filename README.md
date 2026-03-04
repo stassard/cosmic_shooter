@@ -20,13 +20,9 @@ Cosmic Shooter
 
   Controls
 
-  ┌────────────────┬──────────────┐
-  │      Key       │    Action    │
-  ├────────────────┼──────────────┤
-  │ ← → Arrow Keys │ Move fighter │
-  ├────────────────┼──────────────┤
-  │ Space          │ Fire rocket  │
-  └────────────────┴──────────────┘
+  ← → Arrow Keys  -  Move fighter
+      Space  -  Fire rocket
+
 
   Tech Stack
 
