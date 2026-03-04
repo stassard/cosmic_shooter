@@ -21,7 +21,8 @@ Cosmic Shooter
   Controls
 
   ← → Arrow Keys  -  Move fighter
-      Space  -  Fire rocket
+      
+  Space  -  Fire rocket
 
 
   Tech Stack
